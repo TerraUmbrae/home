@@ -111,6 +111,10 @@ footer {
     display: none;
 }
 
+a {
+    color: white;
+}
+
 @media (max-width: 900px) {
     .nav-toggle {
         display: block;
