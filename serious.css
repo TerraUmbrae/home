@@ -115,6 +115,11 @@ a {
     color: white;
 }
 
+abbr {
+    color: lightblue;
+    text-decoration: none;
+}
+
 @media (max-width: 900px) {
     .nav-toggle {
         display: block;
